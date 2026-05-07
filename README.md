@@ -224,6 +224,16 @@ Scalable Web Apps
 
 ---
 
+---
+
+# 💻 Development Insights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Annshikaa&theme=tokyonight"/>
+
+</div>
+
 # 📊 GitHub Analytics
 
 <div align="center">
