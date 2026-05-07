@@ -18,38 +18,52 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI0YjJ2MnNlM2N6b2R1eGlyOWtqZ2xocGVhNzV0aTZvdmxmb2NkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```yaml
-name: Anshika Jain
-located_in: India
-education:
-  [
-    "Integrated M.Tech in Artificial Intelligence",
-    "VIT Bhopal University"
-  ]
+# 🌌 Developer Profile
 
-current_focus:
-  [
-    "Backend Engineering",
-    "AI Systems",
-    "Cloud & DevOps",
-    "System Design"
-  ]
+<div align="center">
 
-interests:
-  [
-    "Full Stack Development",
-    "Machine Learning",
-    "Scalable Architectures",
-    "Optimization"
-  ]
+<table>
+<tr>
+<td>
 
-2026_goals:
-  [
-    "Open Source Contributions",
-    "Advanced Backend Systems",
-    "High Performance Applications"
-  ]
+```java
+class AnshikaJain {
+
+    String role = "Software Engineer";
+    String specialization = "AI & Full Stack Development";
+
+    String[] techStack = {
+        "Spring Boot",
+        "MERN Stack",
+        "Machine Learning",
+        "Cloud & DevOps"
+    };
+
+    String[] interests = {
+        "Backend Engineering",
+        "Scalable Systems",
+        "AI Applications",
+        "System Design"
+    };
+
+    String education =
+        "Integrated M.Tech in Artificial Intelligence";
+
+    String university = "VIT Bhopal University";
+
+    void currentFocus() {
+        build("Scalable AI Applications");
+        optimize("Backend Systems");
+        learn("Distributed Architectures");
+    }
+}
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
@@ -237,20 +251,44 @@ interests:
 
 ---
 
-# 🌙 Developer Mindset
+# 🌙 Developer Philosophy
 
 <div align="center">
 
-```text
-while(alive) {
-    eat();
-    sleep();
-    code();
-    build();
-    innovate();
-    repeat();
-}
+```python
+class Engineer:
+
+    def __init__(self):
+        self.name = "Anshika Jain"
+        self.role = "AI & Full Stack Developer"
+
+    def life_cycle(self):
+        while True:
+            self.code()
+            self.build()
+            self.debug()
+            self.optimize()
+            self.innovate()
+
+    def contact(self):
+        return {
+            "email": "anshikajain7566@gmail.com",
+            "phone": "+91 7566738902",
+            "portfolio": "anshika-portfolio-seven.vercel.app"
+        }
+
+me = Engineer()
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 *"Turning ideas into scalable intelligent systems."*
+
+</div>
 
 </div>
 
