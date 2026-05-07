@@ -1,197 +1,265 @@
-<h1 align="center">Hi 👋, I'm Anshika Jain</h1>
-<h3 align="center">Software Engineer • Full Stack Developer • AI Enthusiast</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,100:4B0082&text=Anshika%20Jain&fontSize=55&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn&fontColor=ffffff"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=BB86FC&center=true&vCenter=true&width=900&lines=AI+%26+Backend+Systems+Engineer;Building+Scalable+Full+Stack+Applications;Spring+Boot+%7C+MERN+%7C+Machine+Learning;Passionate+About+Cloud+%26+System+Design)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/Annshikaa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Backend+Systems+Engineer;Spring+Boot+%7C+MERN+%7C+Machine+Learning;Building+Scalable+Real-World+Applications" />
-  </a>
+  <img src="https://img.shields.io/github/followers/Annshikaa?style=for-the-badge&color=8A2BE2&labelColor=1A1B27"/>
+  <img src="https://img.shields.io/github/stars/Annshikaa?style=for-the-badge&color=BB86FC&labelColor=1A1B27"/>
+  <img src="https://komarev.com/ghpvc/?username=Annshikaa&style=for-the-badge&color=8A2BE2"/>
 </p>
+
+</div>
 
 ---
 
-## 🌸 About Me
+# ✨ About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI0YjJ2MnNlM2N6b2R1eGlyOWtqZ2xocGVhNzV0aTZvdmxmb2NkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 Integrated M.Tech in Artificial Intelligence at **VIT Bhopal University**  
-💡 Passionate about building scalable **AI-powered full stack applications**  
-⚡ Skilled in **Backend Engineering, MERN Stack, Spring Boot & Machine Learning**  
-🧠 Strong problem-solving mindset with **300+ DSA problems solved**  
-🚀 Interested in **AI Systems, Cloud, DevOps & High Performance APIs**  
-🏆 Top 20 at **Indradhanu Hackathon 2025**  
-🌱 Currently exploring **System Design & Advanced Backend Architectures**
+```yaml
+name: Anshika Jain
+located_in: India
+education:
+  [
+    "Integrated M.Tech in Artificial Intelligence",
+    "VIT Bhopal University"
+  ]
+
+current_focus:
+  [
+    "Backend Engineering",
+    "AI Systems",
+    "Cloud & DevOps",
+    "System Design"
+  ]
+
+interests:
+  [
+    "Full Stack Development",
+    "Machine Learning",
+    "Scalable Architectures",
+    "Optimization"
+  ]
+
+2026_goals:
+  [
+    "Open Source Contributions",
+    "Advanced Backend Systems",
+    "High Performance Applications"
+  ]
+```
 
 <br>
 
+- 💻 Full Stack Developer skilled in **MERN + Spring Boot**
+- 🤖 Passionate about **AI, NLP & Intelligent Systems**
+- ⚡ Strong in **DSA, APIs, Backend Optimization & Databases**
+- 🧠 Solved **300+ DSA problems**
+- 🏆 Top 20 at **Indradhanu Hackathon 2025**
+- 🌱 Exploring **Distributed Systems & Cloud Infrastructure**
+
 ---
 
-# 🌐 Connect With Me
+# 🌌 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <a href="mailto:annshikaa16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://linkedin.com/in/anshika-jain-44672a250">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://github.com/Annshikaa">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://anshika-portfolio-seven.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/quirky.captures">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# 💻 Tech Arsenal
+# ⚡ Tech Universe
 
-## 🚀 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,sql"/>
-</p>
+<div align="center">
+
+## 👩‍💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,sql&theme=dark"/>
+
+---
 
 ## 🌐 Full Stack Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,html,css"/>
-</p>
-
-## 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
-</p>
-
-## ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,linux,git,github"/>
-</p>
-
-## 🤖 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/NLP-%23007ACC.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Processing-00C853?style=for-the-badge"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,html,css&theme=dark"/>
 
 ---
 
-# 🧠 Core Expertise
+## 🧠 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 
-✔ Backend Development  
-✔ REST API Design  
-✔ Database Optimization  
-✔ AI & Machine Learning Systems  
-✔ Full Stack Web Development  
-✔ Data Structures & Algorithms  
-✔ System Optimization & Debugging  
-✔ Scalable Application Architecture  
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-BB86FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Processing-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-9370DB?style=for-the-badge"/>
+
+---
+
+## ☁️ Cloud • DevOps • Databases
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,mongodb,mysql,postgresql,git,github,linux&theme=dark"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
 ## 🛒 Parampara Bazaar
-### AI-Powered E-Commerce Platform
+### *AI Negotiation E-Commerce Platform*
 
-🔹 Built using **Spring Boot, React & PostgreSQL**  
-🔹 Developed an **AI negotiation engine** mimicking real shopkeeper interactions  
-🔹 Optimized backend queries reducing response time by **25%**  
-🔹 Integrated secure transaction and user management systems  
+✨ Spring Boot + React + PostgreSQL  
+✨ AI-powered bargaining engine  
+✨ Dynamic pricing based on interaction patterns  
+✨ Reduced backend response time by 25%  
+✨ Real-world scalable architecture  
 
----
+</td>
+
+<td width="50%">
 
 ## 📊 FinLoan-AI
-### Financial Analytics & Loan Intelligence Platform
+### *Financial Analytics Platform*
 
-🔹 Full stack analytics platform with **real-time insights**  
-🔹 Secure backend services using **Spring Boot APIs**  
-🔹 Improved database retrieval latency by **20%**  
-🔹 Designed optimized relational schemas and scalable APIs  
+✨ Real-time financial insights  
+✨ Secure transaction architecture  
+✨ RESTful APIs with Spring Boot  
+✨ Optimized schemas & query handling  
+✨ Reduced retrieval latency by 20%  
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ## ⛓️ Certicult Vault
-### Blockchain-Based Certificate Verification
+### *Blockchain Verification System*
 
-🔹 Built using **Solidity, IPFS, Spring Boot & React**  
-🔹 Implemented secure verification workflows with blockchain  
-🔹 Integrated **MetaMask authentication**  
-🔹 Developed tamper-proof decentralized credential validation  
+✨ Solidity + IPFS + React  
+✨ Tamper-proof credential validation  
+✨ MetaMask authentication integration  
+✨ Decentralized secure verification workflows  
 
----
+</td>
+
+<td width="50%">
 
 ## 🧠 StressSense-AI
-### AI-Based Stress Detection System
+### *AI Stress Detection Platform*
 
-🔹 Developed ML models using **Random Forest & Neural Networks**  
-🔹 Built secure backend APIs with **Spring Boot**  
-🔹 Applied preprocessing and feature engineering techniques  
-🔹 Designed responsive React frontend for prediction visualization  
+✨ Random Forest + Neural Networks  
+✨ React frontend with Spring Boot backend  
+✨ Prediction visualization system  
+✨ ML preprocessing & feature engineering  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 📚 Research & Publications
+# 🏆 Achievements & Certifications
+
+<div align="center">
+
+| 🏅 Achievement | 🌟 Details |
+|---|---|
+| 🧠 DSA | Solved 300+ coding problems |
+| ⭐ HackerRank | 5⭐ SQL Rating |
+| 🏆 Hackathon | Top 20 — Indradhanu Hackathon |
+| 📜 Oracle | Certified Foundations Associate |
+| 🔐 Cisco | Cybersecurity Fundamentals |
+| 🤖 ML | Applied Machine Learning Certified |
+
+</div>
+
+---
+
+# 📚 Research Publications
+
+<div align="center">
 
 📄 **Deepfake Detection using Traditional ML & Deep Learning Techniques**  
-📄 **Prakriti Parakh — Chatbot for Identifying Individual Prakriti**
+📄 **Prakriti Parakh — AI Chatbot for Identifying Individual Prakriti**
+
+</div>
 
 ---
 
-# 🏆 Achievements
+# 📊 GitHub Analytics
 
-🥇 5⭐ SQL Rating on HackerRank  
-🧠 Solved 300+ DSA Problems  
-🏅 Top 20 — Indradhanu Hackathon 2025  
-📜 Oracle Certified Foundations Associate  
-🔐 Cisco Cybersecurity Fundamentals Certified  
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Annshikaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-# 📈 GitHub Analytics
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annshikaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="98%" src="https://nirzak-streak-stats.vercel.app/?user=Annshikaa&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Annshikaa&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# ⚡ Contribution Graph
+# 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Annshikaa&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annshikaa&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
-# 🎯 Current Focus
-
-✨ Building scalable AI applications  
-✨ Advanced Backend Development  
-✨ System Design & Cloud Engineering  
-✨ Open Source Contributions  
-✨ Machine Learning Research  
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Annshikaa&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
-</p>
+# 🌙 Developer Mindset
 
-<h3 align="center">💜 “Building technology that feels intelligent, scalable, and impactful.” 💜</h3>
+<div align="center">
+
+```text
+while(alive) {
+    eat();
+    sleep();
+    code();
+    build();
+    innovate();
+    repeat();
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 “I love building intelligent systems that combine scalability, creativity, and real-world impact.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,100:4B0082"/>
+
+</div>
