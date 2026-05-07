@@ -226,11 +226,18 @@ Scalable Web Apps
 
 ---
 
-# 💻 Development Insights
+---
+
+# 💜 Coding Insights
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Annshikaa&theme=tokyonight"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+
+<br><br>
+
+✨ Primarily working with **Java, JavaScript & Python**  
+⚡ Focused on **Backend Systems, AI Applications & Full Stack Development**
 
 </div>
 
