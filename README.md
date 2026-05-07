@@ -223,13 +223,12 @@ Scalable Web Apps
 </div>
 
 ---
----
 
 # 💜 Coding Insights
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
@@ -244,25 +243,13 @@ Scalable Web Apps
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Annshikaa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Annshikaa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
-<img width="96%" src="https://nirzak-streak-stats.vercel.app/?user=Annshikaa&theme=radical&hide_border=true&background=0D1117"/>
-
-</div>
-
-
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annshikaa&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img width="96%" src="https://streak-stats.demolab.com?user=Annshikaa&theme=radical&hide_border=true&background=0D1117"/>
 
 </div>
 
