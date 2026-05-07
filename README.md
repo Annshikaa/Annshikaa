@@ -232,26 +232,28 @@ Scalable Web Apps
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF"/>
 
 <br><br>
 
-✨ Primarily working with **Java, JavaScript & Python**  
-⚡ Focused on **Backend Systems, AI Applications & Full Stack Development**
+✨ Primarily working with <b>Java, JavaScript & Python</b>  
+⚡ Focused on <b>Backend Systems, AI Applications & Full Stack Development</b>
 
 </div>
+
+---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Annshikaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Annshikaa&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF"/>
 
 <br><br>
 
-<img width="98%" src="https://nirzak-streak-stats.vercel.app/?user=Annshikaa&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="96%" src="https://nirzak-streak-stats.vercel.app/?user=Annshikaa&theme=midnight-purple&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC"/>
 
 </div>
 
