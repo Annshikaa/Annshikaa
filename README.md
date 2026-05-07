@@ -223,16 +223,13 @@ Scalable Web Apps
 </div>
 
 ---
-
----
-
 ---
 
 # 💜 Coding Insights
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
@@ -247,15 +244,17 @@ Scalable Web Apps
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Annshikaa&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Annshikaa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
-<img width="96%" src="https://nirzak-streak-stats.vercel.app/?user=Annshikaa&theme=midnight-purple&hide_border=true&background=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC"/>
+<img width="96%" src="https://nirzak-streak-stats.vercel.app/?user=Annshikaa&theme=radical&hide_border=true&background=0D1117"/>
 
 </div>
+
+
 
 ---
 
