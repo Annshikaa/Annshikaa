@@ -255,6 +255,17 @@ Scalable Web Apps
 
 ---
 
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Annshikaa&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB"/>
+
+</div>
+
+---
+
 # 🌙 Beyond Coding
 
 <div align="center">
