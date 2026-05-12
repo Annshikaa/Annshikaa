@@ -143,25 +143,51 @@ Scalable Web Apps
 <tr>
 <td width="50%">
 
-## 🛒 Parampara Bazaar
+## 🤖 ResumeSync-AI
 
-✨ AI-powered e-commerce platform  
-✨ Spring Boot + React + PostgreSQL  
-✨ Smart AI negotiation engine  
-✨ Reduced response time by 25%  
-✨ Dynamic pricing architecture  
+✨ AI-powered Resume Analyzer & Interview Prep Platform  
+✨ ATS score analysis with smart resume insights  
+✨ AI mock interviews with personalized feedback  
+✨ Resume-JD matching & improvement suggestions  
+✨ Firebase Auth + Gemini/Groq AI integration  
 
 </td>
 
 <td width="50%">
 
+## 🛒 Parampara Bazaar
+
+✨ AI-powered e-commerce marketplace  
+✨ Spring Boot + React + PostgreSQL  
+✨ Smart AI negotiation engine  
+✨ Redis-powered caching optimization  
+✨ Dynamic pricing & secure authentication  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ## 📊 FinLoan-AI
 
-✨ Financial analytics platform  
-✨ Secure backend systems  
-✨ Real-time insights & APIs  
-✨ Optimized database queries  
-✨ Reduced latency by 20%  
+✨ AI-driven financial analytics platform  
+✨ Secure REST APIs & backend systems  
+✨ Real-time financial insights dashboard  
+✨ Optimized database query performance  
+✨ Reduced latency with scalable architecture  
+
+</td>
+
+<td width="50%">
+
+## 🧠 StressSense-AI
+
+✨ AI stress detection & prediction platform  
+✨ Random Forest + Neural Network models  
+✨ React + Spring Boot full-stack architecture  
+✨ Real-time prediction visualization  
+✨ Behavioral & emotional analysis system  
 
 </td>
 </tr>
@@ -171,29 +197,29 @@ Scalable Web Apps
 
 ## ⛓️ Certicult Vault
 
-✨ Blockchain verification platform  
-✨ Solidity + IPFS integration  
-✨ MetaMask authentication  
-✨ Tamper-proof validation system  
+✨ Blockchain-based certificate verification  
+✨ Solidity + IPFS decentralized storage  
+✨ MetaMask authentication integration  
+✨ Tamper-proof validation architecture  
+✨ Smart contract-powered verification  
 
 </td>
 
 <td width="50%">
 
-## 🧠 StressSense-AI
+## 🌿 Prakriti Parakh
 
-✨ AI stress detection platform  
-✨ Neural Networks & Random Forest  
-✨ React + Spring Boot architecture  
-✨ Prediction visualization system  
+✨ AI chatbot for Ayurvedic prakriti detection  
+✨ Dialogflow-powered conversational AI  
+✨ Personalized Vata, Pitta & Kapha analysis  
+✨ Behavioral & physical trait prediction  
+✨ Intelligent health assessment flow  
 
 </td>
 </tr>
 </table>
 
 </div>
-
----
 
 # 🏆 Achievements
 
