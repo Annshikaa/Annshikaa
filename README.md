@@ -216,6 +216,76 @@ Scalable Web Apps
 ✨ Intelligent health assessment flow  
 
 </td>
+<tr>
+<td width="50%">
+
+### 🚗 ParkPulse
+> *Next-Gen Smart Parking Intelligence*
+
+✨ Transforms CCTV cameras into AI parking systems  
+✨ YOLOv8 + ByteTrack real-time vehicle detection  
+✨ FastAPI + React + TypeScript full-stack  
+✨ WebSocket live occupancy dashboard  
+✨ Booking, payments & analytics engine  
+
+</td>
+
+<td width="50%">
+
+### 🫁 LungSight
+> *Explainable AI Medical Diagnostics*
+
+✨ Multi-model chest X-ray pneumonia detection  
+✨ DenseNet121, EfficientNetB3, ResNet50 ensemble  
+✨ Grad-CAM XAI heatmaps + severity scoring  
+✨ Role-based Doctor & Patient portals  
+✨ Automated clinical PDF report generation  
+
+</td>
+</tr>
+</tr>
+</table>
+
+</div>
+
+## 🏆 Hackathons & Competitions
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐 HP Hackathon 2.0
+<img src="https://img.shields.io/badge/Global-Top%20300-8A2BE2?style=for-the-badge"/>
+
+🏅 Ranked in **Top 300 Teams Worldwide**  
+Competed against talented teams from across the globe  
+Recognized for innovative problem-solving & technical depth  
+
+</td>
+
+<td align="center" width="33%">
+
+### 💼 EY Hackathon
+<img src="https://img.shields.io/badge/Status-Finalist-BB86FC?style=for-the-badge"/>
+
+🥇 Selected as **Finalist** out of hundreds of applicants  
+Demonstrated advanced skills in real-world enterprise problem-solving  
+Recognized by one of the Big Four consulting firms  
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌈 Indradhanu 2025
+<img src="https://img.shields.io/badge/Rank-Top%2020-9370DB?style=for-the-badge"/>
+
+🏆 Achieved **Top 20 Ranking**  
+Strong performance in multi-domain innovation challenge  
+Showcased full-stack & AI development expertise  
+
+</td>
 </tr>
 </table>
 
