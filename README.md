@@ -99,6 +99,7 @@
 ![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=A78BFA)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=A78BFA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=A78BFA)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=A78BFA)
 ![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=mysql&logoColor=A78BFA)
 
 **Full Stack**
@@ -127,14 +128,15 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-1a1a1a?style=flat-square&logo=opencv&logoColor=A78BFA)
 ![Keras](https://img.shields.io/badge/Keras-1a1a1a?style=flat-square&logo=keras&logoColor=A78BFA)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=flat-square&logo=scikitlearn&logoColor=A78BFA)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-7C3AED?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8B5CF6?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-A78BFA?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-8B5CF6?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=flat-square)
-![Voice AI](https://img.shields.io/badge/Voice_AI-A78BFA?style=flat-square)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-6D28D9?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-1a1a1a?style=flat-square&logo=huggingface&logoColor=A78BFA)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-1a1a1a?style=flat-square&logo=yolo&logoColor=A78BFA)
+![OpenAI](https://img.shields.io/badge/LLMs-1a1a1a?style=flat-square&logo=openai&logoColor=A78BFA)
+![NLP](https://img.shields.io/badge/NLP-1a1a1a?style=flat-square&logo=spacy&logoColor=A78BFA)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1a1a1a?style=flat-square&logo=googlelens&logoColor=A78BFA)
+![Voice AI](https://img.shields.io/badge/Voice_AI-1a1a1a?style=flat-square&logo=audiomack&logoColor=A78BFA)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-1a1a1a?style=flat-square&logo=arduino&logoColor=A78BFA)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-1a1a1a?style=flat-square&logo=pytorchlightning&logoColor=A78BFA)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-1a1a1a?style=flat-square&logo=scikitlearn&logoColor=A78BFA)
 
 </div>
 
