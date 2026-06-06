@@ -1,394 +1,306 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8A2BE2,100:4B0082&text=Anshika%20Jain&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:7C3AED,50:8B5CF6,100:4C1D95&text=Anshika%20Jain&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=AI%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Full%20Stack&descSize=20&descAlignY=58&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=BB86FC&center=true&vCenter=true&width=850&lines=AI+%26+Backend+Systems+Engineer;Building+Scalable+Full+Stack+Applications;Spring+Boot+%7C+MERN+%7C+Machine+Learning;Passionate+About+Cloud+%26+System+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=820&height=45&lines=AI+%26+Backend+Systems+Engineer;Building+Scalable+Full+Stack+Applications;Spring+Boot+%E2%80%A2+MERN+%E2%80%A2+Machine+Learning;Exploring+Cloud+%26+System+Design)](https://git.io/typing-svg)
 
 <br>
 
-<a href="mailto:anshikajain7566@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+<a href="mailto:anshikajain7566@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://linkedin.com/in/anshika-jain-44672a250"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://github.com/Annshikaa"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/anshikaa16/"><img src="https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://anshika-portfolio-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://instagram.com/quirky.captures"><img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
-<a href="https://linkedin.com/in/anshika-jain-44672a250">
-<img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+<br>
 
-<a href="https://github.com/Annshikaa">
-<img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://anshika-portfolio-seven.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/quirky.captures">
-<img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Annshikaa&style=for-the-badge&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=Annshikaa&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
----
-
-# ✨ About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### 👩‍💻 Software Engineer & AI Enthusiast
-
-🎓 Integrated M.Tech in Artificial Intelligence at **VIT Bhopal University**  
-⚡ Passionate about **Backend Engineering, AI Systems & Full Stack Development**  
-🚀 Building scalable applications using **Spring Boot, MERN & Machine Learning**  
-🧠 Strong problem-solving mindset with **300+ DSA problems solved**  
-🏆 Top 20 at **Indradhanu Hackathon 2025**  
-🌱 Exploring **Cloud Infrastructure, System Design & Distributed Systems**
-
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,100:4C1D95&section=header"/>
 
-# 🌌 Developer Snapshot
+## &nbsp; 👩‍💻 &nbsp; About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+> Integrated **M.Tech in Artificial Intelligence** @ VIT Bhopal University
+
+```yaml
+focus:        [ Backend Engineering, AI Systems, Full Stack ]
+building:     Scalable apps with Spring Boot, MERN & ML
+problem_solving: 300+ DSA problems solved
+recognition:  Top 20 — Indradhanu Hackathon 2025
+learning:     Cloud Infrastructure • System Design • Distributed Systems
+mindset:      "Turning ideas into scalable intelligent systems"
+```
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,100:4C1D95&section=header"/>
+
+## &nbsp; 🧩 &nbsp; What I Do
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
-
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
-
-### 🤖 AI & ML
-
-Machine Learning  
-Deep Learning  
-NLP Systems  
-Predictive Models  
-
+<img src="https://img.icons8.com/fluency/72/artificial-intelligence.png"/><br>
+<b>🤖 AI &amp; ML</b><br><br>
+<sub>Machine Learning<br>Deep Learning<br>NLP Systems<br>Predictive Models</sub>
 </td>
-
 <td align="center" width="33%">
-
-<img src="https://img.icons8.com/fluency/96/server.png"/>
-
-### ⚙️ Backend
-
-Spring Boot  
-REST APIs  
-Database Optimization  
-System Architecture  
-
+<img src="https://img.icons8.com/fluency/72/server.png"/><br>
+<b>⚙️ Backend</b><br><br>
+<sub>Spring Boot<br>REST APIs<br>DB Optimization<br>System Architecture</sub>
 </td>
-
 <td align="center" width="33%">
-
-<img src="https://img.icons8.com/fluency/96/source-code.png"/>
-
-### 🌐 Full Stack
-
-React.js  
-Node.js  
-MERN Stack  
-Scalable Web Apps  
-
+<img src="https://img.icons8.com/fluency/72/source-code.png"/><br>
+<b>🌐 Full Stack</b><br><br>
+<sub>React.js<br>Node.js<br>MERN Stack<br>Scalable Web Apps</sub>
 </td>
 </tr>
 </table>
-
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,100:4C1D95&section=header"/>
 
-# ⚡ Tech Stack
+## &nbsp; ⚡ &nbsp; Tech Stack
 
 <div align="center">
 
-## 👩‍💻 Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,sql&theme=dark"/>
+**Languages**
 
-<br><br>
+![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=A78BFA)
+![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=A78BFA)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=mysql&logoColor=A78BFA)
 
-## 🌐 Full Stack Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,html,css&theme=dark"/>
+**Full Stack**
 
-<br><br>
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=A78BFA)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=A78BFA)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=A78BFA)
+![Spring](https://img.shields.io/badge/Spring_Boot-1a1a1a?style=flat-square&logo=springboot&logoColor=A78BFA)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=A78BFA)
 
-## ☁️ Cloud • DevOps • Databases
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,mongodb,mysql,postgresql,git,github,linux&theme=dark"/>
+**Cloud • DevOps • Databases**
 
-<br><br>
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonwebservices&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=A78BFA)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a1a?style=flat-square&logo=kubernetes&logoColor=A78BFA)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=A78BFA)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=A78BFA)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=A78BFA)
 
-## 🧠 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
+**AI / ML**
 
-<br>
-
-<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep_Learning-BB86FC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-9370DB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Processing-6A5ACD?style=for-the-badge"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=A78BFA)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=A78BFA)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8B5CF6?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-A78BFA?style=flat-square)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,100:4C1D95&section=header"/>
 
-# 🚀 Featured Projects
+## &nbsp; 🚀 &nbsp; Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🤖 ResumeSync-AI
+#### 🤖 ResumeSync-AI
+> *AI Resume Analyzer & Interview Prep*
 
-✨ AI-powered Resume Analyzer & Interview Prep Platform  
-✨ ATS score analysis with smart resume insights  
-✨ AI mock interviews with personalized feedback  
-✨ Resume-JD matching & improvement suggestions  
-✨ Firebase Auth + Gemini/Groq AI integration  
-
-</td>
-
-<td width="50%">
-
-## 🛒 Parampara Bazaar
-
-✨ AI-powered e-commerce marketplace  
-✨ Spring Boot + React + PostgreSQL  
-✨ Smart AI negotiation engine  
-✨ Redis-powered caching optimization  
-✨ Dynamic pricing & secure authentication  
+- ATS score analysis with smart insights
+- AI mock interviews with personalized feedback
+- Resume–JD matching & suggestions
+- Firebase Auth + Gemini / Groq integration
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td width="50%">
+#### 🛒 Parampara Bazaar
+> *AI-Powered E-Commerce Marketplace*
 
-## 📊 FinLoan-AI
-
-✨ AI-driven financial analytics platform  
-✨ Secure REST APIs & backend systems  
-✨ Real-time financial insights dashboard  
-✨ Optimized database query performance  
-✨ Reduced latency with scalable architecture  
-
-</td>
-
-<td width="50%">
-
-## 🧠 StressSense-AI
-
-✨ AI stress detection & prediction platform  
-✨ Random Forest + Neural Network models  
-✨ React + Spring Boot full-stack architecture  
-✨ Real-time prediction visualization  
-✨ Behavioral & emotional analysis system  
+- Spring Boot + React + PostgreSQL
+- Smart AI negotiation engine
+- Redis-powered caching optimization
+- Dynamic pricing & secure auth
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## ⛓️ Certicult Vault
+#### 📊 FinLoan-AI
+> *AI-Driven Financial Analytics*
 
-✨ Blockchain-based certificate verification  
-✨ Solidity + IPFS decentralized storage  
-✨ MetaMask authentication integration  
-✨ Tamper-proof validation architecture  
-✨ Smart contract-powered verification  
+- Secure REST APIs & backend systems
+- Real-time financial insights dashboard
+- Optimized DB query performance
+- Low-latency scalable architecture
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+#### 🧠 StressSense-AI
+> *AI Stress Detection Platform*
 
-## 🌿 Prakriti Parakh
-
-✨ AI chatbot for Ayurvedic prakriti detection  
-✨ Dialogflow-powered conversational AI  
-✨ Personalized Vata, Pitta & Kapha analysis  
-✨ Behavioral & physical trait prediction  
-✨ Intelligent health assessment flow  
+- Random Forest + Neural Network models
+- React + Spring Boot full-stack
+- Real-time prediction visualization
+- Behavioral & emotional analysis
 
 </td>
+</tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚗 ParkPulse
+#### ⛓️ Certicult Vault
+> *Blockchain Certificate Verification*
+
+- Solidity + IPFS decentralized storage
+- MetaMask authentication
+- Tamper-proof validation architecture
+- Smart contract–powered verification
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌿 Prakriti Parakh
+> *AI Ayurvedic Prakriti Chatbot*
+
+- Dialogflow conversational AI
+- Personalized Vata / Pitta / Kapha analysis
+- Behavioral & physical trait prediction
+- Intelligent health assessment flow
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚗 ParkPulse
 > *Next-Gen Smart Parking Intelligence*
 
-✨ Transforms CCTV cameras into AI parking systems  
-✨ YOLOv8 + ByteTrack real-time vehicle detection  
-✨ FastAPI + React + TypeScript full-stack  
-✨ WebSocket live occupancy dashboard  
-✨ Booking, payments & analytics engine  
+- Turns CCTV into AI parking systems
+- YOLOv8 + ByteTrack vehicle detection
+- FastAPI + React + TypeScript
+- WebSocket live occupancy dashboard
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🫁 LungSight
+#### 🫁 LungSight
 > *Explainable AI Medical Diagnostics*
 
-✨ Multi-model chest X-ray pneumonia detection  
-✨ DenseNet121, EfficientNetB3, ResNet50 ensemble  
-✨ Grad-CAM XAI heatmaps + severity scoring  
-✨ Role-based Doctor & Patient portals  
-✨ Automated clinical PDF report generation  
+- Multi-model chest X-ray pneumonia detection
+- DenseNet121 + EfficientNetB3 + ResNet50
+- Grad-CAM XAI heatmaps + severity scoring
+- Automated clinical PDF reports
 
 </td>
 </tr>
-</tr>
 </table>
-
 </div>
 
-## 🏆 Hackathons & Competitions
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,100:4C1D95&section=header"/>
+
+## &nbsp; 🏆 &nbsp; Hackathons & Achievements
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
-
-### 🌐 HP Hackathon 2.0
-<img src="https://img.shields.io/badge/Global-Top%20300-8A2BE2?style=for-the-badge"/>
-
-🏅 Ranked in **Top 300 Teams Worldwide**  
-Competed against talented teams from across the globe  
-Recognized for innovative problem-solving & technical depth  
-
+<b>🌐 HP Hackathon 2.0</b><br>
+<img src="https://img.shields.io/badge/Global-Top%20300-7C3AED?style=for-the-badge"/><br>
+<sub>Ranked in Top 300 teams worldwide<br>Recognized for innovation & technical depth</sub>
 </td>
-
 <td align="center" width="33%">
-
-### 💼 EY Hackathon
-<img src="https://img.shields.io/badge/Status-Finalist-BB86FC?style=for-the-badge"/>
-
-🥇 Selected as **Finalist** out of hundreds of applicants  
-Demonstrated advanced skills in real-world enterprise problem-solving  
-Recognized by one of the Big Four consulting firms  
-
+<b>💼 EY Hackathon</b><br>
+<img src="https://img.shields.io/badge/Status-Finalist-8B5CF6?style=for-the-badge"/><br>
+<sub>Finalist among hundreds of applicants<br>Enterprise problem-solving recognition</sub>
 </td>
-
 <td align="center" width="33%">
-
-### 🌈 Indradhanu 2025
-<img src="https://img.shields.io/badge/Rank-Top%2020-9370DB?style=for-the-badge"/>
-
-🏆 Achieved **Top 20 Ranking**  
-Strong performance in multi-domain innovation challenge  
-Showcased full-stack & AI development expertise  
-
+<b>🌈 Indradhanu 2025</b><br>
+<img src="https://img.shields.io/badge/Rank-Top%2020-A78BFA?style=for-the-badge"/><br>
+<sub>Top 20 multi-domain innovation challenge<br>Full-stack & AI expertise showcased</sub>
 </td>
 </tr>
 </table>
-
 </div>
-
-# 🏆 Achievements
 
 <div align="center">
 
-| Achievement | Details |
-|---|---|
-| 🧠 DSA | Solved 300+ coding problems |
-| ⭐ HackerRank | 5⭐ SQL Rating |
-| 🏆 Hackathon | Top 20 — Indradhanu Hackathon |
-| 📜 Oracle | Certified Foundations Associate |
-| 🔐 Cisco | Cybersecurity Fundamentals |
-| 🤖 ML | Applied Machine Learning Certified |
+| 🏅 Achievement | Details |
+|:---|:---|
+| 🧠 **DSA** | 300+ coding problems solved |
+| 💻 **LeetCode** | 250+ solved · DP, Backtracking & Union-Find |
+| ⭐ **HackerRank** | 5⭐ SQL Rating |
+| 📜 **Oracle** | Certified Foundations Associate |
+| 🔐 **Cisco** | Cybersecurity Fundamentals |
+| 🤖 **ML** | Applied Machine Learning Certified |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,100:4C1D95&section=header"/>
 
-# 📚 Research Publications
+## &nbsp; 📚 &nbsp; Research Publications
 
 <div align="center">
 
-📄 Deepfake Detection using Traditional ML & Deep Learning Techniques  
+📄 &nbsp; **Deepfake Detection** using Traditional ML & Deep Learning Techniques
 
-📄 Prakriti Parakh — AI Chatbot for Identifying Individual Prakriti  
+📄 &nbsp; **Prakriti Parakh** — AI Chatbot for Identifying Individual Prakriti
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,100:4C1D95&section=header"/>
 
-# 💜 Coding Insights
+## &nbsp; 📊 &nbsp; GitHub Analytics
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Annshikaa&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
 
 <br><br>
 
-✨ Primarily working with <b>Java, JavaScript & Python</b>  
-⚡ Focused on <b>Backend Systems, AI Applications & Full Stack Development</b>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Annshikaa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Annshikaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Annshikaa&theme=react&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 <br><br>
 
-<img width="96%" src="https://streak-stats.demolab.com?user=Annshikaa&theme=radical&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Annshikaa&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB"/>
-
-</div>
-
----
-
-# 🌙 Beyond Coding
-
-<div align="center">
-
-✨ Building intelligent systems that solve real-world problems  
-✨ Passionate about clean backend architecture & scalable systems  
-✨ Blending AI with impactful user experiences  
-✨ Constantly learning, building & innovating  
+<img width="80%" src="https://leetcard.jacoblin.cool/anshikaa16?theme=dark&font=Space%20Grotesk&ext=heatmap&animation=false"/>
 
 <br><br>
 
-### 💜 “Turning ideas into scalable intelligent systems.”
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Annshikaa&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,100:4C1D95&section=header"/>
+
+## &nbsp; 📬 &nbsp; Let's Connect
 
 <div align="center">
 
-## 📬 Contact Me
-
-📧 anshikajain7566@gmail.com  
-📱 +91 7566738902  
-🌐 https://anshika-portfolio-seven.vercel.app/
+📧 &nbsp; anshikajain7566@gmail.com &nbsp; • &nbsp; 📱 &nbsp; +91 7566738902 &nbsp; • &nbsp; 🌐 &nbsp; [Portfolio](https://anshika-portfolio-seven.vercel.app/)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,100:4B0082"/>
+***"Turning ideas into scalable intelligent systems."***
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:8B5CF6,100:4C1D95"/>
