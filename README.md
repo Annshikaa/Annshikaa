@@ -27,16 +27,19 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-> Integrated **M.Tech in Artificial Intelligence** @ VIT Bhopal University
+🎓 &nbsp; Pursuing **Integrated M.Tech in Artificial Intelligence** @ VIT Bhopal University
 
-```yaml
-focus:        [ Backend Engineering, AI Systems, Full Stack ]
-building:     Scalable apps with Spring Boot, MERN & ML
-problem_solving: 300+ DSA problems solved
-recognition:  Top 20 — Indradhanu Hackathon 2025
-learning:     Cloud Infrastructure • System Design • Distributed Systems
-mindset:      "Turning ideas into scalable intelligent systems"
-```
+🎯 &nbsp; Focused on **Backend Engineering**, **AI Systems** & **Full Stack Development**
+
+🛠️ &nbsp; Building scalable applications with **Spring Boot**, **MERN** & **Machine Learning**
+
+🧩 &nbsp; Solved **300+ DSA problems** — strong problem-solving foundation
+
+🏆 &nbsp; **Top 20** at Indradhanu Hackathon 2025
+
+🌱 &nbsp; Currently exploring **Cloud Infrastructure**, **System Design** & **Distributed Systems**
+
+💜 &nbsp; *"Turning ideas into scalable intelligent systems."*
 
 <br clear="right"/>
 
