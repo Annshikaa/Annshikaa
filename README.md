@@ -68,7 +68,7 @@
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/72/computer-vision.png"/><br>
+<img src="https://img.icons8.com/fluency/72/eye.png"/><br>
 <b>👁️ Computer Vision</b><br><br>
 <sub>Object Detection<br>YOLOv8 + ByteTrack<br>Image Classification<br>Grad-CAM / XAI</sub>
 </td>
@@ -78,7 +78,7 @@
 <sub>IoT & Microcontrollers<br>Sensor Integration<br>Real-Time Processing<br>Edge AI Deployment</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/72/voice-recognition.png"/><br>
+<img src="https://img.icons8.com/fluency/72/microphone.png"/><br>
 <b>🎙️ Voice &amp; LLM</b><br><br>
 <sub>Conversational AI<br>Speech-to-Text<br>LLM Integration<br>Voice Assistants</sub>
 </td>
