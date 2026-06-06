@@ -66,6 +66,23 @@
 <sub>React.js<br>Node.js<br>MERN Stack<br>Scalable Web Apps</sub>
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/72/computer-vision.png"/><br>
+<b>👁️ Computer Vision</b><br><br>
+<sub>Object Detection<br>YOLOv8 + ByteTrack<br>Image Classification<br>Grad-CAM / XAI</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/72/electronics.png"/><br>
+<b>🔌 Embedded Systems</b><br><br>
+<sub>IoT & Microcontrollers<br>Sensor Integration<br>Real-Time Processing<br>Edge AI Deployment</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/72/voice-recognition.png"/><br>
+<b>🎙️ Voice &amp; LLM</b><br><br>
+<sub>Conversational AI<br>Speech-to-Text<br>LLM Integration<br>Voice Assistants</sub>
+</td>
+</tr>
 </table>
 </div>
 
@@ -103,13 +120,21 @@
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=A78BFA)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=A78BFA)
 
-**AI / ML**
+**AI / ML • Vision • Voice**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=A78BFA)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=A78BFA)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1a1a?style=flat-square&logo=opencv&logoColor=A78BFA)
+![Keras](https://img.shields.io/badge/Keras-1a1a1a?style=flat-square&logo=keras&logoColor=A78BFA)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=flat-square&logo=scikitlearn&logoColor=A78BFA)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-7C3AED?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8B5CF6?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-A78BFA?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-8B5CF6?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=flat-square)
+![Voice AI](https://img.shields.io/badge/Voice_AI-A78BFA?style=flat-square)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-6D28D9?style=flat-square)
 
 </div>
 
