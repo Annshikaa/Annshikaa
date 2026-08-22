@@ -330,6 +330,9 @@
 
 ***"Turning ideas into scalable intelligent systems."***
 
+
+## &nbsp; 📬 &nbsp; Let's Connect
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:8B5CF6,100:4C1D95"/>
