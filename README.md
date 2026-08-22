@@ -321,7 +321,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C3AED,100:4C1D95&section=header"/>
 
-## &nbsp; 📬 &nbsp; Let's Connect
 
 <div align="center">
 
