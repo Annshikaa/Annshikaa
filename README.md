@@ -292,7 +292,7 @@
 
 📄 &nbsp; **Deepfake Detection** using Traditional ML & Deep Learning Techniques
 
-📄 &nbsp; **Prakriti Parakh** — AI Chatbot for Identifying Individual Prakriti
+📄 &nbsp; 
 
 </div>
 
